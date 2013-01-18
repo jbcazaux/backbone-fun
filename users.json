@@ -1,0 +1,14 @@
+[
+    {
+        "lastname": "nom1",
+        "firstname": "prenom1"
+    },
+    {
+        "lastname": "nom2",
+        "firstname": "prenom2"
+    },
+    {
+        "lastname": "nom3",
+        "firstname": "prenom3"
+    }
+]
